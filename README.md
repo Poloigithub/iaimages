@@ -1,5 +1,7 @@
 # 🤖 IA Imágenes
 
+![header](https://github.com/Poloigithub/iaimages/blob/main/images/iaheader.png)
+
 Repositorio para recoger herramientas de generación de imágenes a través de IA
 
 
@@ -26,15 +28,41 @@ Al principio es complicado encontrar un prompt que haga lo que realmente teníam
 
 ## Generación de imágenes Lv1
 
+Recopilación de aquellas herramientas que de forma muy rápida nos permiten generar imágenes a través de IA.
+
+
+
+## Generación de imágenes Lv2
+
+Aquí voy a recopilar aquellas herramientas que nos permiten generar imágenes que son un poco más avanzadas, estas ya nos permitirán retocar algunos parámetros y configuraciones de forma simple.
+
 ### DreamStudio
 
 ![DreamStudio](https://github.com/Poloigithub/iaimages/blob/main/images/dreamstudio.png)
-
-Aquí voy a recopilar aquellas herramientas que nos permiten generar imágenes que son un poco más avanzadas, estas ya nos permitirán retocar algunos parámetros y configuraciones de forma simple.
 
 Versión web de **Stable Diffusión**, nos permite generar imágenes de forma gratuita con los 200 créditos que nos proporcionan en un principio, una vez acabados estos se tienen que pasar por caja.
 
 Para utilizarla es muy sencillo, hay que crear un usuario en [https://beta.dreamstudio.ai/](https://beta.dreamstudio.ai/), modificar el prompt que nos viene por defecto y darle al botón de **Dream**.
 
-## Generación de imágenes Lv2
+### Midjourney
+
+![Midjourney](https://github.com/Poloigithub/iaimages/blob/main/images/midjourney.png)
+
+Personalmente es una de las que creo que mejores resultados da, aunque es necesario tener una invitación y funciona a través de un bot de Discord, cosa que puede hacer que algunas usuarias tengan una barrera de inicio importante.
+
+Puedes pedir una invitación desde [https://www.midjourney.com/](https://www.midjourney.com/) , es necesario para ello tener una cuenta en Discord.
+
+Una vez que tú invitación sea aceptada tendrás que entrar al canal de Discord de Midjourney y unirte a una de los canales de creación de imágenes, desde allí teclear el comando **/imagine** del prompt que quieras utilizar y el bot después de unos segundos te contestará con cuatro imágenes generadas.
+
+Una vez generadas puedes elegir que rescale alguna de ellas desde el menú:
+
+U1 | U2 | U3 | U4
+
+O que genere versiones de a partir de algunas desde el menú:
+
+V1 | V2 | V3 | V4
+
+De nuevo el bot nos contestará con lo que le hayamos indicado.
+
+
 ## Generación de imágenes Lv3
