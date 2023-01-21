@@ -1,7 +1,5 @@
 # 🤖 IA Imágenes
 
-![header](https://github.com/Poloigithub/iaimages/blob/main/images/iaheader.png)
-
 Repositorio para recoger herramientas de generación de imágenes a través de IA
 
 
