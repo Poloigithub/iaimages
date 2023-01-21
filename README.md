@@ -3,7 +3,7 @@
 Repositorio para recoger herramientas de generación de imágenes a través de IA
 
 
-## Qué es el promt?
+## 1. Qué es el promt?
 El prompt es la instrucción en lenguaje natural que interpretará la IA como el conjunto de instrucciones para generar a partir de ella la imagen, este tiene que ser en inglés. Dependiendo de esas palabras el resultado será diferente y un pequeño cambio hará que pueda variar bastante.
 
 Aunque un prompt puede ser muy básico:
@@ -24,17 +24,17 @@ photography of a siamese cat, on a sofa, HD photo, trending on artstation
 
 Al principio es complicado encontrar un prompt que haga lo que realmente teníamos en la cabeza, es cosa de ir probando combinaciones y sobre todo, buscar los de otros usuarios para aprender como construyen los suyos. Puedes buscar promts en la plataforma [lexica.art](https://lexica.art/)
 
-## Generación de imágenes Lv1
+## 2. Generación de imágenes Lv1
 
 Recopilación de aquellas herramientas que de forma muy rápida nos permiten generar imágenes a través de IA.
 
 
 
-## Generación de imágenes Lv2
+## 3. Generación de imágenes Lv2
 
 Aquí voy a recopilar aquellas herramientas que nos permiten generar imágenes que son un poco más avanzadas, estas ya nos permitirán retocar algunos parámetros y configuraciones de forma simple.
 
-### DreamStudio
+### 3.1. DreamStudio
 
 ![DreamStudio](https://github.com/Poloigithub/iaimages/blob/main/images/dreamstudio.png)
 
@@ -42,7 +42,7 @@ Versión web de **Stable Diffusión**, nos permite generar imágenes de forma gr
 
 Para utilizarla es muy sencillo, hay que crear un usuario en [https://beta.dreamstudio.ai/](https://beta.dreamstudio.ai/), modificar el prompt que nos viene por defecto y darle al botón de **Dream**.
 
-### Midjourney
+### 3.2. Midjourney
 
 ![Midjourney](https://github.com/Poloigithub/iaimages/blob/main/images/midjourney.png)
 
@@ -63,4 +63,4 @@ V1 | V2 | V3 | V4
 De nuevo el bot nos contestará con lo que le hayamos indicado.
 
 
-## Generación de imágenes Lv3
+## 4. Generación de imágenes Lv3
