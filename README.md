@@ -75,3 +75,12 @@ IA para generación de imágenes de OpenAI, es muy simple de utilizar y ya no re
 
 
 ## 4. Generación de imágenes Lv3
+
+## 5. Creación de vídeo
+
+### 5.1. Genmo
+
+![Genmo](https://github.com/Poloigithub/iaimages/blob/main/images/genmo.png)
+
+Esta IA permite primero generar una imagen a través de un prompt y después animarla, por ahora lo consideraría sólo una curiosidad, no le veo mucho sentido. https://alpha.genmo.ai/
+
