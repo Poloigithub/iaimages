@@ -10,9 +10,20 @@ Aunque un prompt puede ser muy básico:
 ```
 cat
 ```
+![Imágen creada con DreamStudio](https://github.com/Poloigithub/iaimages/blob/main/images/gato.jpeg "Imágen creada con DreamStudio")
 
+Lo mejor es crear uno dónde demos mayor información, lo mejor es que cumpla la siguiente estructura.
 
+**Tipo de obra | Contenido | Estilo | Modificadores**
 
-## Generación de imágenes L1
-## Generación de imágenes L2
-## Generación de imágenes L3
+Esto sería una ejemplo para obetener una fotografía de un gato siamés en un sofá:
+```
+photography of a siamese cat, on a sofa, HD photo, trending on artstation
+```
+![Imágen creada con DreamStudio](https://github.com/Poloigithub/iaimages/blob/main/images/gato2.jpeg "Imágen creada con DreamStudio")
+
+Al principio es complicado encontrar un prompt que haga lo que realmente teníamos en la cabeza, es cosa de ir probando combinaciones y sobre todo, buscar los de otros usuarios para aprender como construyen los suyos.
+
+## Generación de imágenes Lv1
+## Generación de imágenes Lv2
+## Generación de imágenes Lv3
