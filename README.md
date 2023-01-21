@@ -28,6 +28,11 @@ Al principio es complicado encontrar un prompt que haga lo que realmente teníam
 
 Recopilación de aquellas herramientas que de forma muy rápida nos permiten generar imágenes a través de IA.
 
+### 2.1. Starryai
+
+Herramienta muy simple de utilizar, ofrece 5 créditos diarios de forma gratuita, además tiene aplicación para iOS y Android. Lamentablemente los resultados no llegan a ser muy buenos en muchas ocasiones. [https://starryai.com/](https://starryai.com/)
+
+![Starryai](https://github.com/Poloigithub/iaimages/blob/main/images/starryai.png)
 
 
 ## 3. Generación de imágenes Lv2
