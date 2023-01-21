@@ -67,5 +67,11 @@ V1 | V2 | V3 | V4
 
 De nuevo el bot nos contestará con lo que le hayamos indicado.
 
+### 3.3. Dall·E
+
+![DallE](https://github.com/Poloigithub/iaimages/blob/main/images/dalle.png)
+
+IA para generación de imágenes de OpenAI, es muy simple de utilizar y ya no requiere invitación. Dispones de 15 créditos gratuitos mensualmente para la generación de imágenes y de una API de pago para poder conectarla con aplicaciones de producción propia. [https://labs.openai.com/](https://labs.openai.com/)
+
 
 ## 4. Generación de imágenes Lv3
