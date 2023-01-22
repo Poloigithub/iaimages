@@ -29,9 +29,15 @@ Recopilación de aquellas herramientas que de forma muy rápida nos permiten gen
 
 ### 2.1. Starryai
 
+![Starryai](https://github.com/Poloigithub/iaimages/blob/main/images/starryai.png)
+
 Herramienta muy simple de utilizar, ofrece 5 créditos diarios de forma gratuita, además tiene aplicación para iOS y Android. Lamentablemente los resultados no llegan a ser muy buenos en muchas ocasiones. [https://starryai.com/](https://starryai.com/)
 
-![Starryai](https://github.com/Poloigithub/iaimages/blob/main/images/starryai.png)
+### 2.2. Stable Diffusion 2.1. Huggingface
+
+![stabble diffusion huggingface](https://github.com/Poloigithub/iaimages/blob/main/images/sdhugg.png)
+
+Espacio en Huggingface dónde poder utilizar una versión simplificada de Stable Diffusión, aunque la velocidad no es la mejor, si que nos permite utilizarlo las veces que queramos con tan sólo introducir las intrucciones. https://huggingface.co/spaces/stabilityai/stable-diffusion
 
 
 ## 3. Generación de imágenes Lv2
