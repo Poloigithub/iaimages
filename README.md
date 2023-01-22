@@ -84,3 +84,11 @@ IA para generación de imágenes de OpenAI, es muy simple de utilizar y ya no re
 
 Esta IA permite primero generar una imagen a través de un prompt y después animarla, por ahora lo consideraría sólo una curiosidad, no le veo mucho sentido. https://alpha.genmo.ai/
 
+## 6. Edición de imágenes
+
+### 6.1. InstructPix2Pix
+
+![InstructPix2Pix](https://github.com/Poloigithub/iaimages/blob/main/images/intruc2pix.png)
+
+Podemos a través del promtp modificar las imágenes que le añadamos, es una especie de editor de imágenes por IA. https://huggingface.co/spaces/timbrooks/instruct-pix2pix
+
